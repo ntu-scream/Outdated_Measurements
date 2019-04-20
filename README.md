@@ -1,4 +1,5 @@
-# Measurement_Code
-Code for various measurements run in lab
+# New_Lab_Gui
 
-All code written using python. The formatting style should follow pep8 conventions.
+
+### Apr 5th 2019
+Currently all versions of the measurement code are fully implemented but may still have bugs.  The next step is to try running actual measurements and make sure everything functions properly.  Once done, this branch (DEVELOPED) can be merged with the master.  
