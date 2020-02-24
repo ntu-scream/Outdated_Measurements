@@ -1,6 +1,6 @@
-# New_Lab_Gui
+# Outdated measurement code versions
 
-### Apr 20, 2019
+### Published Apr 20, 2019
 
 New lab GUI for various measurements completed.  All programs have been tried on the probe stations and have proven functional.  
 This code has several improvements over the older versions.
